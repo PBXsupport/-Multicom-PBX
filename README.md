@@ -1,4 +1,4 @@
-# Максиком (Maxicom) ? Мультиком (Multicom) мини-АТС (PBX)
+# Максиком (Maxicom) и Мультиком (Multicom) мини-АТС (PBX)
 АТС Мультиком/Multifon (документация, софт)
   
 1) **Инструкция абонента мини-АТС Мультиком** A616, FS632, B100/200, C1256 https://web.archive.org/web/20071018050446/http://multicom.spb.ru/

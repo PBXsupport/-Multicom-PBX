@@ -1,3 +1,4 @@
+![Инструкция абонента АТС FS632 тональный_27-01-2022_reklama](https://user-images.githubusercontent.com/81390857/151272711-34c8f599-6745-40cd-be2b-6682775faa09.jpg)
 # АТС Максиком (Maxicom) и Мультиком (Multicom) мини-АТС (PBX)
 (документация, софт)
 
